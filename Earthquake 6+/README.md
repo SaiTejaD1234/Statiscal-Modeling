@@ -14,7 +14,7 @@
  Although we can't sense most of them, it is important to model these earthquakes to improve our insights in the field of detection. 
 ## 2. Objectives
 *   Obtain the dataset and prepare the data for Statistical Modeling
-*   Fit Beta Distribution to the random sample 
+*   Fit a Distribution to the random sample 
 ## 3. Methods Used
 * Feature Engineering
 * Inferential Statistics
