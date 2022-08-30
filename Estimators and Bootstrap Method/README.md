@@ -8,7 +8,7 @@
     6. Implementation
     7. Result
 ## 1. Project Motivation
-An **estimator** is a statistic that estimates some fact about the population. You can also think of an estimator as *the rule that creates an estimate*. **Method of Moments (MoM)** and **Maximum Likelihood Estimation (MLE)** are methods of estimating parameters of a probability distribution given some data. These methods have been the dominating ***means of Statistical Inference***. While these estimators are *prone to bias*, I'll be including the **Confidence Intervals using Bootstrap Method**.
+An **estimator** is a statistic that estimates some fact about the population. You can also think of an estimator as *the rule that creates an estimate*. **Method of Moments (MoM)** and **Maximum Likelihood Estimation (MLE)** are methods of estimating parameters of a probability distribution given some data. These methods have been the dominating ***means of Statistical Inference***. While these estimators are *prone to bias*, I've included the **Confidence Intervals found using Bootstrap Method**.
 ##    2. Objectives
 *   Obtain a dataset prepare the data for Statistical Modeling
 *   Fit a Distribution to the random sample
