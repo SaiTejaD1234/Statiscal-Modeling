@@ -35,7 +35,7 @@ An **estimator** is a statistic that estimates some fact about the population. Y
     * Seaborn
     * Scipy
 ## 5. Data
-The data has been obtained from U.S. Data and Statistics. These input data files are ***cardio_base.csv*** which is attached above. It contains about 70000 data points for analysis.
+The data has been obtained from U.S. Data and Statistics. These input data files are ***cardio_base.csv*** which is attached above. It contains about *70000 data points* for analysis.
 *The csv file containing the data is attached separately.*
 ## 6. Implementation
 In this project I've used *10000 sample points* and fitted a normal distribution to them. Further more equations have been provided in the .ipynb file to calculate MoM and MLE. Bootstrapping has been done and *10000 samples of normal distribution have been created* to find Confidence Intervals.
